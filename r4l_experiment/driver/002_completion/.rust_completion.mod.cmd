@@ -1,0 +1,1 @@
+cmd_/root/cicv-r4l-3-Trbe/r4l_experiment/driver/002_completion/rust_completion.mod := printf '%s\n'   rust_completion.o | awk '!x[$$0]++ { print("/root/cicv-r4l-3-Trbe/r4l_experiment/driver/002_completion/"$$0) }' > /root/cicv-r4l-3-Trbe/r4l_experiment/driver/002_completion/rust_completion.mod
